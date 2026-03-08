@@ -127,7 +127,7 @@ class Carrefour {
         } while (number > 0);
     }
 
-    static void printWelcome() {
+    private static void printWelcome() {
         System.out.println("  ______      ___      .______      .______       _______  _______   ______    __    __  .______      ");
         System.out.println(" /      |    /   \\     |   _  \\     |   _  \\     |   ____||   ____| /  __  \\  |  |  |  | |   _  \\     ");
         System.out.println("|  ,----'   /  ^  \\    |  |_)  |    |  |_)  |    |  |__   |  |__   |  |  |  | |  |  |  | |  |_)  |    ");
